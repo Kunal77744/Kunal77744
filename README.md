@@ -4,6 +4,7 @@
 ### Full-Stack Developer • AI Systems & Applied GenAI Builder
 
 [![Rank #41 / 51,356](https://img.shields.io/badge/PromptWars-Rank_%2341_%2F_51%2C356-FF6B6B?style=flat-square&logo=hackaday&logoColor=white)](https://github.com/Kunal77744)
+[![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-AICTE_Internship-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://github.com/Kunal77744/AI-Study-Buddy)
 [![AI Score 96.9/100](https://img.shields.io/badge/AI_Eval_Score-96.9%20%2F%20100-2ECC71?style=flat-square)](https://github.com/Kunal77744)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal_Deshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-deshmukh-220339415)
 [![Email](https://img.shields.io/badge/Email-deshmukhkunal813%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deshmukhkunal813@gmail.com)
@@ -33,6 +34,11 @@
 | Challenge Track | Project | Architecture / Focus | Repository |
 | :--- | :--- | :--- | :--- |
 | **Intelligent Candidate Discovery & Ranking** | [redrob-candidate-ranker](https://github.com/Kunal77744/redrob-candidate-ranker) | Sentence-Transformers (`all-MiniLM-L6-v2`), Multi-Stage Honeypot Filtering, Explainable AI Rationales | [Explore Repo ➔](https://github.com/Kunal77744/redrob-candidate-ranker) |
+
+#### 🎓 Industry Experience & Government-Accredited Internships
+| Organization & Program | Project / Deliverable | Focus Area | Repository |
+| :--- | :--- | :--- | :--- |
+| **IBM SkillsBuild × Edunet Foundation** *(AICTE Approved)* | [AI-Study-Buddy](https://github.com/Kunal77744/AI-Study-Buddy) | AI-Powered Personalized Study & Interactive Knowledge Assistance | [Explore Repo ➔](https://github.com/Kunal77744/AI-Study-Buddy) |
 
 ---
 
@@ -68,6 +74,13 @@
 - **Semantic Embeddings:** Utilizes Sentence Transformers (`all-MiniLM-L6-v2`) with feature engineering to match candidate trajectories against complex job descriptions.
 - **Explainable AI:** Generates grounded rationales justifying applicant rankings without hallucinations.
 - **Tech Stack:** `Python` • `Sentence-Transformers` • `Streamlit` • `Embeddings`
+
+#### 5. [AI Study Buddy](https://github.com/Kunal77744/AI-Study-Buddy)
+> *Engineered as the Capstone Project for the **IBM SkillsBuild × Edunet Foundation Internship** (AICTE Approved)* • [Explore Code ➔](https://github.com/Kunal77744/AI-Study-Buddy)
+
+- **Contextual Learning Assistance:** Designed to process study materials and provide interactive, step-by-step conceptual explanations.
+- **Applied Generative AI:** Integrates LLM orchestration with clean developer tooling to boost student retention and comprehension.
+- **Tech Stack:** `Python` • `Generative AI APIs` • `Rapid Prototyping`
 
 ---
 
