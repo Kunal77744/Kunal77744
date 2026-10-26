@@ -4,9 +4,11 @@
 ### Full-Stack Developer • AI Systems & Applied GenAI Builder
 
 [![Rank #41 / 51,356](https://img.shields.io/badge/PromptWars-Rank_%2341_%2F_51%2C356-FF6B6B?style=flat-square&logo=hackaday&logoColor=white)](https://github.com/Kunal77744)
+[![Top 10 DSH Hacks](https://img.shields.io/badge/DSH_Hacks_V1-Top_10_%26_3x_Award_Winner-8B5CF6?style=flat-square&logo=target&logoColor=white)](https://devpost.com/software/astrosim-ai-interactive-gravity-sandbox-ai-stem-tutor)
 [![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-AICTE_Internship-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://github.com/Kunal77744/AI-Study-Buddy)
 [![AI Score 96.9/100](https://img.shields.io/badge/AI_Eval_Score-96.9%20%2F%20100-2ECC71?style=flat-square)](https://github.com/Kunal77744)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal_Deshmukh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-deshmukh-220339415)
+[![Devpost](https://img.shields.io/badge/Devpost-mern2026book-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/mern2026book)
 [![Email](https://img.shields.io/badge/Email-deshmukhkunal813%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deshmukhkunal813@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kunal77744-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kunal77744)
 
@@ -29,6 +31,11 @@
 | **Challenge 5: Celebration & Event Planner** | [event-planner](https://github.com/Kunal77744/event-planner) | **#41 / 51,356** *(Top 0.08%)* | **96.9 / 100** | **Efficiency: 100** • **Testing: 100** • **Security: 98** • [Live App ➔](https://event-planner-ten-ruby.vercel.app/) |
 | **Challenge 4: FanFlow AI** | [fanflow-ai](https://github.com/Kunal77744/fanflow-ai) | **#91 / 1,713** *(Top 5%)* | **95.16 / 100** | **Efficiency: 100** • **Accessibility: 100** • **Security: 99** • [Live App ➔](https://fanflow-ai-six.vercel.app/) |
 | **Challenge 3: EcoTrace** | [EcoTrace](https://github.com/Kunal77744/EcoTrace) | **#201 / 2,566** *(Top 8%)* | **95.99 / 100** | **Efficiency: 100** • **Security: 99** • **Accessibility: 98** • [Live App ➔](https://ecotrace-mu.vercel.app/) |
+
+#### 🌌 DSH Hacks V1 (DeltaForge Hacks × NXTHorizon × STEMise)
+| Hackathon Track | Project | Placement & Awards | Core Architecture | Live / Devpost |
+| :--- | :--- | :--- | :--- | :--- |
+| **STEM Innovation & AI Simulation** | [AstroSim AI](https://github.com/Kunal77744/astrosim-ai) | **🏆 Top 10 Finalist**<br/>• **Winner: Special Prize** *(Iteration Machine)*<br/>• **Winner: Special Award** *(Aniko.ai)*<br/>• **Winner: Special Award** *(InterviewCake)* | 2D Gravitational Sandbox (60 FPS Canvas), MathJax LaTeX Math, Gemini 1.5 Flash AI STEM Tutor | [Live Simulation ➔](https://astrosim-ai.vercel.app/)<br/>[Devpost Story ➔](https://devpost.com/software/astrosim-ai-interactive-gravity-sandbox-ai-stem-tutor) |
 
 #### 🤖 India Runs on AI Hackathon (Hack2Skill × Redrob AI)
 | Challenge Track | Project | Architecture / Focus | Repository |
@@ -54,13 +61,14 @@
 - **Resilience & Testing:** LRU in-memory cache (`maxsize=128`) with automated offline fallback suggestions. Automated GitHub Actions CI pipeline with **25/25 passing tests in pytest** (Scored **100/100 in Testing & Efficiency**).
 
 #### 2. [AstroSim AI — Gravitational Sandbox & AI STEM Tutor](https://github.com/Kunal77744/astrosim-ai)
-> **Physics Simulation & AI Lab Partner** • [Live Simulation ➔](https://astrosim-ai.vercel.app/) • [Explore Code ➔](https://github.com/Kunal77744/astrosim-ai)
+> **🏆 Top 10 Finalist & 3x Special Award Winner @ DSH Hacks V1** • [Live Simulation ➔](https://astrosim-ai.vercel.app/) • [Devpost ➔](https://devpost.com/software/astrosim-ai-interactive-gravity-sandbox-ai-stem-tutor) • [GitHub Code ➔](https://github.com/Kunal77744/astrosim-ai)
 
-- **Real-Time 2D Physics Engine:** 60 FPS HTML5 Canvas engine computing dynamic gravitational pull vectors between all celestial bodies ($F_g = G \frac{m_1 m_2}{r^2}$) with accretion and conservation of momentum.
-- **Dynamic LaTeX Blackboard:** Integrates MathJax to compile and display live equations in real-time, showing instantaneous velocity and force variables as planets orbit.
-- **Interactive AI STEM Tutor:** Powered by **Google Gemini 1.5 Flash** with voice synthesis (Web Speech API) and Web Audio API synthesized sonic effects, alongside an offline fallback engine.
-- **Guided Interactive Labs:** Hands-on simulations for Kepler's Ellipse, Gravitational Slingshot (Gravity Assist), Binary Stars, and Lagrange Points.
-- **Tech Stack:** `Vanilla JS (60 FPS Canvas)` • `Google Gemini 1.5 Flash` • `MathJax LaTeX` • `Web Speech API` • `Web Audio API`
+- **Awards & Recognition:** Awarded **Top 10 Finalist**, **Winner: Special Prize (Iteration Machine)**, **Winner: Special Award (Aniko.ai)**, and **Winner: Special Award (InterviewCake)**.
+- **Real-Time 2D Physics Engine:** 60 FPS HTML5 Canvas engine computing dynamic gravitational pull vectors between all celestial bodies ($F_g = G \frac{m_1 m_2}{r^2}$) with collision accretion and conservation of momentum.
+- **Dynamic LaTeX Math Blackboard:** Integrates MathJax to compile and display live LaTeX equations at 60 FPS with real-time variable substitutions as orbital trajectories evolve.
+- **Voice-Narrated AI STEM Tutor:** Powered by **Google Gemini 1.5 Flash** with Web Speech Synthesis for spoken assistance and Web Audio API programmatic sound effects.
+- **Guided Interactive Labs:** Hands-on scenarios for Kepler's Ellipse, Gravitational Slingshot (Gravity Assist), Binary Stars, and Lagrange Points.
+- **Tech Stack:** `Vanilla JS (60 FPS Canvas)` • `Google Gemini 1.5 Flash` • `MathJax LaTeX` • `Web Speech Synthesis` • `Web Audio API`
 
 #### 3. [FanFlow AI](https://github.com/Kunal77744/fanflow-ai)
 > **Rank #91 out of 1,713 participants** • [Live Application ➔](https://fanflow-ai-six.vercel.app/) • [LinkedIn Update ➔](https://www.linkedin.com/posts/kunal-deshmukh-220339415_hack2skill-promptwar-h2spromptwar-share-7480266862455308288-t7iW)
