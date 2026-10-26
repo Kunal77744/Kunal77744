@@ -22,12 +22,17 @@
 
 ### 🏆 Competitive Engineering & Hackathon Track Record
 
-| Event / Hackathon | Submission / Project | Global / National Rank | AI Evaluation Score | Key Metric Highlights |
+#### ⚡ PromptWars (by Hack2Skill)
+| Challenge / Track | Project | Rank | AI Evaluation Score | Highlights |
 | :--- | :--- | :--- | :--- | :--- |
-| **PromptWars Challenge 5** | [Celebration & Event Planner](https://github.com/Kunal77744/event-planner) | **#41 / 51,356** *(Top 0.08%)* | **96.9 / 100** | **Efficiency: 100/100** • **Testing: 100/100** • **Security: 98/100** |
-| **PromptWars Challenge 3** | [EcoTrace](https://github.com/Kunal77744/EcoTrace) | **#201 / 2,566** *(Top 8%)* | **95.99 / 100** | **Efficiency: 100/100** • **Security: 99/100** • **Accessibility: 98/100** |
-| **PromptWars Challenge 4** | [FanFlow AI](https://github.com/Kunal77744/fanflow-ai) | **#91 / 1,713** *(Top 5%)* | **95.16 / 100** | **Efficiency: 100/100** • **Accessibility: 100/100** • **Security: 99/100** |
-| **Redrob AI Challenge** | [Candidate Discovery Ranker](https://github.com/Kunal77744/redrob-candidate-ranker) | *Challenge Submission* | *Completed* | **Honeypot Elimination** • **Sentence-Transformers** |
+| **Challenge 5: Celebration & Event Planner** | [event-planner](https://github.com/Kunal77744/event-planner) | **#41 / 51,356** *(Top 0.08%)* | **96.9 / 100** | **Efficiency: 100** • **Testing: 100** • **Security: 98** • [Live App ➔](https://event-planner-ten-ruby.vercel.app/) |
+| **Challenge 4: FanFlow AI** | [fanflow-ai](https://github.com/Kunal77744/fanflow-ai) | **#91 / 1,713** *(Top 5%)* | **95.16 / 100** | **Efficiency: 100** • **Accessibility: 100** • **Security: 99** • [Live App ➔](https://fanflow-ai-six.vercel.app/) |
+| **Challenge 3: EcoTrace** | [EcoTrace](https://github.com/Kunal77744/EcoTrace) | **#201 / 2,566** *(Top 8%)* | **95.99 / 100** | **Efficiency: 100** • **Security: 99** • **Accessibility: 98** • [Live App ➔](https://ecotrace-mu.vercel.app/) |
+
+#### 🤖 India Runs on AI Hackathon (Hack2Skill × Redrob AI)
+| Challenge Track | Project | Architecture / Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| **Intelligent Candidate Discovery & Ranking** | [redrob-candidate-ranker](https://github.com/Kunal77744/redrob-candidate-ranker) | Sentence-Transformers (`all-MiniLM-L6-v2`), Multi-Stage Honeypot Filtering, Explainable AI Rationales | [Explore Repo ➔](https://github.com/Kunal77744/redrob-candidate-ranker) |
 
 ---
 
@@ -57,7 +62,7 @@
 - **Tech Stack:** `Full-Stack Web` • `Python APIs` • `Vercel`
 
 #### 4. [Redrob Intelligent Candidate Discovery Ranker](https://github.com/Kunal77744/redrob-candidate-ranker)
-> *Hybrid AI matching engine engineered for large candidate talent pools.*
+> *Built for the **India Runs on AI Hackathon** (Hack2Skill × Redrob AI)* • [Explore Code ➔](https://github.com/Kunal77744/redrob-candidate-ranker)
 
 - **Multi-Stage Honeypot Elimination:** Automatically detects fabricated experience profiles and skill gaps before matching.
 - **Semantic Embeddings:** Utilizes Sentence Transformers (`all-MiniLM-L6-v2`) with feature engineering to match candidate trajectories against complex job descriptions.
