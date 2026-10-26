@@ -53,21 +53,30 @@
 - **Deterministic Separation:** Separated creative suggestion generation from mathematical/budget calculations (`planner.py`, `refine.py`) to guarantee zero numeric hallucinations.
 - **Resilience & Testing:** LRU in-memory cache (`maxsize=128`) with automated offline fallback suggestions. Automated GitHub Actions CI pipeline with **25/25 passing tests in pytest** (Scored **100/100 in Testing & Efficiency**).
 
-#### 2. [FanFlow AI](https://github.com/Kunal77744/fanflow-ai)
+#### 2. [AstroSim AI — Gravitational Sandbox & AI STEM Tutor](https://github.com/Kunal77744/astrosim-ai)
+> **Physics Simulation & AI Lab Partner** • [Live Simulation ➔](https://astrosim-ai.vercel.app/) • [Explore Code ➔](https://github.com/Kunal77744/astrosim-ai)
+
+- **Real-Time 2D Physics Engine:** 60 FPS HTML5 Canvas engine computing dynamic gravitational pull vectors between all celestial bodies ($F_g = G \frac{m_1 m_2}{r^2}$) with accretion and conservation of momentum.
+- **Dynamic LaTeX Blackboard:** Integrates MathJax to compile and display live equations in real-time, showing instantaneous velocity and force variables as planets orbit.
+- **Interactive AI STEM Tutor:** Powered by **Google Gemini 1.5 Flash** with voice synthesis (Web Speech API) and Web Audio API synthesized sonic effects, alongside an offline fallback engine.
+- **Guided Interactive Labs:** Hands-on simulations for Kepler's Ellipse, Gravitational Slingshot (Gravity Assist), Binary Stars, and Lagrange Points.
+- **Tech Stack:** `Vanilla JS (60 FPS Canvas)` • `Google Gemini 1.5 Flash` • `MathJax LaTeX` • `Web Speech API` • `Web Audio API`
+
+#### 3. [FanFlow AI](https://github.com/Kunal77744/fanflow-ai)
 > **Rank #91 out of 1,713 participants** • [Live Application ➔](https://fanflow-ai-six.vercel.app/) • [LinkedIn Update ➔](https://www.linkedin.com/posts/kunal-deshmukh-220339415_hack2skill-promptwar-h2spromptwar-share-7480266862455308288-t7iW)
 
 - **AI Audience Workflow Engine:** Intelligent engagement platform built to streamline creator workflows using Generative AI.
 - **Evaluation Highlights:** Scored **100/100 Accessibility**, **100/100 Efficiency**, and **99/100 Security**.
 - **Tech Stack:** `Python` • `Generative AI APIs` • `FastAPI` • `Vercel Serverless`
 
-#### 3. [EcoTrace](https://github.com/Kunal77744/EcoTrace)
+#### 4. [EcoTrace](https://github.com/Kunal77744/EcoTrace)
 > **Rank #201 out of 2,566 participants** • [Live Application ➔](https://ecotrace-mu.vercel.app/) • [LinkedIn Update ➔](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470522828145180672/)
 
 - **Environmental Footprint Analytics:** Real-time carbon tracking and sustainable recommendation engine.
 - **Evaluation Highlights:** Scored **100/100 Efficiency**, **99/100 Security**, and **98/100 Accessibility**.
 - **Tech Stack:** `Full-Stack Web` • `Python APIs` • `Vercel`
 
-#### 4. [Redrob Intelligent Candidate Discovery Ranker](https://github.com/Kunal77744/redrob-candidate-ranker)
+#### 5. [Redrob Intelligent Candidate Discovery Ranker](https://github.com/Kunal77744/redrob-candidate-ranker)
 > *Built for the **India Runs on AI Hackathon** (Hack2Skill × Redrob AI)* • [Explore Code ➔](https://github.com/Kunal77744/redrob-candidate-ranker)
 
 - **Multi-Stage Honeypot Elimination:** Automatically detects fabricated experience profiles and skill gaps before matching.
@@ -75,7 +84,7 @@
 - **Explainable AI:** Generates grounded rationales justifying applicant rankings without hallucinations.
 - **Tech Stack:** `Python` • `Sentence-Transformers` • `Streamlit` • `Embeddings`
 
-#### 5. [AI Study Buddy](https://github.com/Kunal77744/AI-Study-Buddy)
+#### 6. [AI Study Buddy](https://github.com/Kunal77744/AI-Study-Buddy)
 > *Engineered as the Capstone Project for the **IBM SkillsBuild × Edunet Foundation Internship** (AICTE Approved)* • [Explore Code ➔](https://github.com/Kunal77744/AI-Study-Buddy)
 
 - **Contextual Learning Assistance:** Designed to process study materials and provide interactive, step-by-step conceptual explanations.
