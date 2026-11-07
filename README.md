@@ -1,10 +1,10 @@
-![Intro](./assets/hero.svg?v=2)
+![Intro](./assets/hero.svg?v=3)
 
-![About](./assets/about-life.svg?v=2)
+![About](./assets/about-life.svg?v=3)
 
-![Stack](./assets/stack.svg?v=2)
+![Stack](./assets/stack.svg?v=3)
 
-![ID](./assets/id-dashboard.svg?v=2)
+![ID](./assets/id-dashboard.svg?v=3)
 
 ## Projects
 
@@ -17,6 +17,6 @@
 | **Redrob Candidate Ranker** | Semantic candidate ranking with honeypot filtering and explainable rationales | India Runs on AI Hackathon entry | [Code](https://github.com/Kunal77744/redrob-candidate-ranker) |
 | **AI Study Buddy** | Interactive study assistant, capstone for IBM SkillsBuild x Edunet Foundation | IBM SkillsBuild x Edunet internship capstone (AICTE approved) | [Code](https://github.com/Kunal77744/AI-Study-Buddy) |
 
-![Connect](./assets/connect.svg?v=2)
+![Connect](./assets/connect.svg?v=3)
 
 **Find me here:** [LinkedIn](https://www.linkedin.com/in/kunal-deshmukh-220339415) | [Devpost](https://devpost.com/mern2026book) | [GitHub](https://github.com/Kunal77744) | [Email](mailto:deshmukhkunal813@gmail.com)
