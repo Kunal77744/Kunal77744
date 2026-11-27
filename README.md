@@ -1,10 +1,4 @@
-![Intro](./assets/hero-v2.svg)
 
-![About](./assets/about-life.svg)
-
-![Stack](./assets/stack.svg)
-
-![ID](./assets/id-dashboard-v2.svg)
 
 ## Projects
 
